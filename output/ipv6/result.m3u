@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh.qninq.cn/https://raw.githubusercontent.com/xxmmllqqqqccqq/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-04-16 04:55:28
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-04-17 04:56:08
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="央视频道",CCTV-1
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
@@ -19,6 +19,8 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="CCTV6.png" group-title="央视频道",CCTV-6
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="CCTV6.png" group-title="央视频道",CCTV-6
+http://pull-hls-f11.douyincdn.com/media/stream-695661786906493612.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906237&major_anchor_level=common&sign=ddcd6089cb8edea3eb08cddfb4729b21&t_id=037-20260416090356FD2B01904532B1DF9B07-RJ3RCM
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="CCTV7.png" group-title="央视频道",CCTV-7
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="CCTV8.png" group-title="央视频道",CCTV-8
@@ -40,15 +42,19 @@ https://t.freetv.fun/live/cctv13-21.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="CCTV13.png" group-title="央视频道",CCTV-13
 https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="CCTV13.png" group-title="央视频道",CCTV-13
+http://pull-hls-f11.douyincdn.com/media/stream-695651341408928428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906376&major_anchor_level=common&sign=3d747723a48cdbc8d62d59e475b46ba9&t_id=037-202604160906153524B036CC507AF52AC7-mRao9U
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="CCTV13.png" group-title="央视频道",CCTV-13
 http://pull-hls-f11.douyincdn.com/media/stream-695633213632807596.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776420045&major_anchor_level=common&sign=312791ac58700a363d025c0a94c1bbd0&t_id=037-2026041018004416AA7E707B88F1063B85-Nh2VkU
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="CCTV13.png" group-title="央视频道",CCTV-13
 http://pull-hls-f11.douyincdn.com/media/stream-695651341408928428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776694865&major_anchor_level=common&sign=b4eb8da6e3f5ce18d3fc3a3644a4f296&t_id=037-202604132221050DE10D71B5AE1F13452B-RbdRaV
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="CCTV13.png" group-title="央视频道",CCTV-13
+http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906347&major_anchor_level=common&sign=81655df7686481f4cec91377da5b5b98&t_id=037-20260416090546B656952D837424ED6011-Fd7pkI
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="CCTV14.png" group-title="央视频道",CCTV-14
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="CCTV14.png" group-title="央视频道",CCTV-14
-https://t.freetv.fun/live/cctv14-8.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="CCTV14.png" group-title="央视频道",CCTV-14
 https://event.pull.hebtv.com/jishi/cp2.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="CCTV14.png" group-title="央视频道",CCTV-14
+https://t.freetv.fun/live/cctv14-8.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="CCTV15.png" group-title="央视频道",CCTV-15
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="CCTV16.png" group-title="央视频道",CCTV-16
